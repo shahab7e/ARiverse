@@ -1,0 +1,6 @@
+{
+  "name": "Orbital Graph",
+  "description": "Interactive orbital graph using ECharts with custom physics and beautiful dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
